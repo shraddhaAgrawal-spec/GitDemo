@@ -12,7 +12,7 @@ import io.cucumber.testng.CucumberOptions;
 		 features = {"src/test/resources/features"},
 		// tags = " @LoginTest ", 
 		 glue = {"stepdefinition"}, 
-		 monochrome = true
+		 monochrome = false
 
 )
 
